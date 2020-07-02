@@ -1,4 +1,4 @@
-# Android App for Real-time Face Landmark Detection
+# Android App for Real-time EyeCloseing Detection
 
 Fast Face is an android application which detects facial landmark . It detects 68 landmarks of human face <br />
 chin to eyebrow in real-time. Also, it can detect people up to 3 if you guys show your frontal faces. <br /> 
