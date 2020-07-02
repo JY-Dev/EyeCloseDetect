@@ -6,9 +6,3 @@ As a result, Fast Face speeds up 2x or more from the original. Higher resoluton 
 And I added Pytorch Lib for Detection Eye closing.<br />
 It used by Dlib + Pytorch<br />
 <br />
-
-
-
-## License
-[License](LICENSE.md)
-"# close-eye-detect" 
