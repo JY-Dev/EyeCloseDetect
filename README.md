@@ -8,6 +8,7 @@ As a result, Fast Face speeds up 2x or more from the original. Higher resoluton 
 
 I think it is not the best one, there are some issues that can be more speedy one. <br />
 So, if you guys already improved or want to improve this code, feel free to contact me. Test and Enjoy it :) <br />
+And I added Pytorch Lib for Detect Eye closed So, It used by Dlib + Pytorch<br />
 <br />
 
 ## Screenshot
