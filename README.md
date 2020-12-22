@@ -8,8 +8,8 @@
 - 눈깜빡임을 감지해 3초이상 감고있으면 진동 및 화면 깜빡임
 
 ## 구현
-- Dlib를 통해 얼굴을 감지해 눈을 Crop한 이미지를 
-- Pytorch 모델을 통해 눈 깜박였는지 체크 
+- Dlib를 통해 얼굴을 감지해 눈을 Crop한다. 
+- Crop한  이미지를 Pytorch 모델을 통해 눈 깜박임 체크 
 
 
 # Android App for Real-time EyeCloseing Detection
